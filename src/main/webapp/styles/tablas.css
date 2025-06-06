@@ -1,0 +1,20 @@
+@charset "UTF-8";
+table {
+  border-collapse: collapse;
+  width: 100% !important;
+}
+h1{
+	text-align:"center";
+}
+
+td, th {
+	
+  border: 3px solid #88aed2;
+  text-align: center;
+  padding: 10px;
+}
+
+th{
+	font-size: 18px;
+	
+}
