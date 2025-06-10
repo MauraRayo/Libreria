@@ -20,7 +20,7 @@ Para poder colaborar con el proyecto necesitaras:
 *  **com.ipartek.modelo** la gestion de la BD*
 
   ### Organizacion de las vistas 
-  la interfaz de usuario esta realizada con **HTML** Y **CSS**, Y LOS
+  la interfaz de usuario esta realizada con **HTML** Y **CSS**
   ## Configuración del proyecto
   Para poder arrancar el proyecto, sera necesario contar con una BD.
   se suministra el codigo SQL con las tablas y datos de pruebas.
