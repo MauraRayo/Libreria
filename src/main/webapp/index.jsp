@@ -117,7 +117,6 @@
 					</td>
 					
 					<td>
-					
 						<a href="BorrarLibro?p_id_libro=<%=elem.getId_libro()%>">
 						<img alt="" src="imagenes/iconos/ico_borrar.png" width="30"  height="30">
 						</a>
